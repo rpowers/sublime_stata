@@ -1,0 +1,17 @@
+{	
+	"cmd": ["osascript -e 'tell application \"Stata\" to activate & open POSIX file \"$file\"'"],
+	"selector": "source.Stata",
+	"shell": true,
+
+
+"variants": [
+
+        { "cmd": ["osascript -e 'tell application \"Sublime Text 2\" to activate' -e 'set old to the clipboard' -e  'tell app \"System Events\" to keystroke \"c\" using {command down}' -e 'delay 0.03' -e 'set _selection to the clipboard as text' -e 'do shell script \"pbpaste > /tmp/sublime_to_stata.do\"' -e 'set the clipboard to old' -e 'tell application \"Stata\" to activate & open POSIX file \"/tmp/sublime_to_stata.do\"'"],
+          "name": "Run",
+          "shell": true
+        }
+
+
+    ]
+
+}
