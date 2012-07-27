@@ -2,7 +2,7 @@
 #Sublime Text 2 Package for Stata
 ***
 
-Author: Ryan Powers [rpowers@wisc.edu](mailto:rpowers@wisc.edu)
+Author: Ryan Powers -- [rpowers@wisc.edu](mailto:rpowers@wisc.edu)
 
 Date: 27 July 2012
 
