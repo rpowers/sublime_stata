@@ -3,7 +3,9 @@
 ***
 
 Author: Ryan Powers [rpowers@wisc.edu](mailto:rpowers@wisc.edu)
+
 Date: 27 July 2012
+
 Keywords: Subime Text 2, Stata, Textmate Bundle, Port
 
 ##Summary
