@@ -1,6 +1,6 @@
 {	
 	"cmd": ["osascript -e 'tell application \"Stata\" to activate & open POSIX file \"$file\"'"],
-	"selector": "source.Stata",
+	"selector": "source.stata",
 	"shell": true,
 
 
