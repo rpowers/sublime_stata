@@ -9,7 +9,7 @@ Date: 27 July 2012
 Keywords: Subime Text 2, Stata, Textmate Bundle, Port
 
 ##Summary
-This is a port of the Textmate Bundle for Stata. It relies mostly on the old code, but adds a build system for use in Sublime Text. The original Textmate Bundle is available from [Dan Byler](http://bylr.net/3/2010/10/stata-bundle-for-textmate/). 
+This is a port of the Textmate Bundle for Stata. It relies mostly on the old code, but adds a build system for use in Sublime Text. The Textmate Bundle on which this package largely relies was originally written by Timothy Beatty and is now available from [Dan Byler](http://bylr.net/3/2010/10/stata-bundle-for-textmate/). 
 
 The package is currently for the OS X versions of Sublime Text 2 and Stata only. 
 
