@@ -2,7 +2,7 @@
 	"schema_version": "1.2",
 	"packages": [
 		{
-			"name": "Sublime Stata",
+			"name": "Stata",
 			"description": "Code highlighting and execution.",
 			"author": "rpoweres",
 			"homepage": "https://github.com/rpowers/sublime_stata",
@@ -10,8 +10,8 @@
 			"platforms": {
 				"osx": [
 					{
-						"version": ".1",
-						"url": "https://nodeload.github.com/rpowers/sublime_stata/zipball/v.1"
+						"version": "0.2",
+						"url": "https://nodeload.github.com/rpowers/sublime_stata/zipball/v0.2"
 					}
 				]
 			}
